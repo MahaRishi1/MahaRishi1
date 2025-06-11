@@ -1,8 +1,12 @@
 <h2 align="center">About Me</h2>
-<p align="center">
-I'm a Computer Science Engineering student passionate about building impactful software
-</p>
-<p align="center">
+<h4 align="left">
+I’m a Computer Science Engineering student with a deep passion for building impactful software.<br>
+<br>Developing and designing intuitive Full-Stack web solutions.<br>
+<br>I focus on using technology to solve real problems. My interests span across full-stack development, AI-ML, and cloud-based systems.<br>
+<br>I believe in continuously evolving through hands-on projects, collaboration, and constant learning.<br>
+<br>Currently exploring scalable architectures, real-time systems, and intelligent interfaces.<br>
+</h4>
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=MahaRishi1&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
