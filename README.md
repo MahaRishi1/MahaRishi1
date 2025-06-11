@@ -1,3 +1,5 @@
+![github banner updated](https://github.com/user-attachments/assets/60e6fce5-687f-45b5-ba2a-8c183090003e)
+
 <h2 align="center"><img width="40" height="40" src="https://img.icons8.com/pulsar-gradient/48/about-me.png" alt="about-me"/> About Me</h2>
 <h4 align="left">
 I’m a Computer Science Engineering student with a deep passion for building impactful software.<br>
