@@ -1,4 +1,4 @@
-<h2 align="center">About Me</h2>
+<h2 align="center"><img width="40" height="40" src="https://img.icons8.com/pulsar-gradient/48/about-me.png" alt="about-me"/> About Me</h2>
 <h4 align="left">
 I’m a Computer Science Engineering student with a deep passion for building impactful software.<br>
 <br>Developing and designing intuitive Full-Stack web solutions.<br>
@@ -10,7 +10,7 @@ I’m a Computer Science Engineering student with a deep passion for building im
   <img src="https://komarev.com/ghpvc/?username=MahaRishi1&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h2 align="center">Let's Connect</h2>
+<h2 align="center"><img width="30" height="30" src="https://img.icons8.com/pulsar-color/48/add-message.png" alt="add-message"/> Let's Connect</h2>
 <p align="center">
   <a href="https://linkedin.com/in/b-maharishi">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
@@ -21,7 +21,7 @@ I’m a Computer Science Engineering student with a deep passion for building im
 </p>
 
 
-<h2 align="center">Tools & Technologies</h2>
+<h2 align="center"><img width="30" height="30" src="https://img.icons8.com/pulsar-gradient/48/backend-development.png" alt="backend-development"/> Tools & Technologies</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 </p>
@@ -74,7 +74,7 @@ I’m a Computer Science Engineering student with a deep passion for building im
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </p>
 
-<h2 align="center">My Stats</h2>
+<h2 align="center"><img width="30" height="30" src="https://img.icons8.com/external-blue-line-nixx-design/24/external-stats-finance-blue-line-nixx-design.png" alt="external-stats-finance-blue-line-nixx-design"/> My Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MahaRishi1&theme=react&hide_border=true&include_all_commits=false&count_private=false" />
   <br/>
