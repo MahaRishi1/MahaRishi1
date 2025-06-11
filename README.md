@@ -14,13 +14,15 @@ I’m a Computer Science Engineering student with a deep passion for building im
 
 <h2 align="center"><img width="30" height="30" src="https://img.icons8.com/pulsar-color/48/add-message.png" alt="add-message"/> Let's Connect</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/b-maharishi">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/b-maharishi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:maharishibx@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40" />
   </a>
 </p>
+
 
 
 <h2 align="center"><img width="30" height="30" src="https://img.icons8.com/pulsar-gradient/48/backend-development.png" alt="backend-development"/> Tools & Technologies</h2>
@@ -83,7 +85,17 @@ I’m a Computer Science Engineering student with a deep passion for building im
   <img src="https://nirzak-streak-stats.vercel.app/?user=MahaRishi1&theme=react&hide_border=true" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahaRishi1&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <br/>
+  <h4 align="left">
+    <a href="https://leetcode.com/MahaRishi01/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/35e360d2-ff87-4360-93af-c89a0f437f9f" alt="LeetCode" width="30" height="30" />
+    </a>
+    My Leetcode Profile
+  </h4>
+  <img src="https://leetcard.jacoblin.cool/Maharishi01?theme=catppuccinMocha&font=Josefin%20Sans&ext=heatmap" />
 </p>
+---
+
 
 <h2 align="center">GitHub Trophies</h2>
 <p align="center">
@@ -92,6 +104,6 @@ I’m a Computer Science Engineering student with a deep passion for building im
 
 ---
 
-
 [![MahaRishi1's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahaRishi1&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
