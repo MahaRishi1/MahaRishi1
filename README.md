@@ -1,5 +1,7 @@
 ![github banner updated](https://github.com/user-attachments/assets/60e6fce5-687f-45b5-ba2a-8c183090003e)
-
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=MahaRishi1&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 <h2 align="center"><img width="40" height="40" src="https://img.icons8.com/pulsar-gradient/48/about-me.png" alt="about-me"/> About Me</h2>
 <h4 align="left">
 I’m a Computer Science Engineering student with a deep passion for building impactful software.<br>
@@ -8,9 +10,7 @@ I’m a Computer Science Engineering student with a deep passion for building im
 <br>I believe in continuously evolving through hands-on projects, collaboration, and constant learning.<br>
 <br>Currently exploring scalable architectures, real-time systems, and intelligent interfaces.<br>
 </h4>
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=MahaRishi1&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
 
 <h2 align="center"><img width="30" height="30" src="https://img.icons8.com/pulsar-color/48/add-message.png" alt="add-message"/> Let's Connect</h2>
 <p align="center">
